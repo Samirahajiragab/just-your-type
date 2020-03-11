@@ -53,4 +53,10 @@ h2{
   font-size: 5rem;
   line-height: 4rem;
   color: #fc037f;
+  animation: blinker 1s linear infinite;
 }
+
+@keyframes secondfont {
+  50% {
+    opacity: 0;
+  }
