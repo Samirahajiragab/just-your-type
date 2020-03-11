@@ -38,14 +38,19 @@ body {
 .firstfont > p {
   text-decoration: line-through;
 }
+h2{
+  font-family: 'Girassol', cursive;
+}
 
 .secondfont {
   left: 0;
   right: 0;
-  top: 24%;
+  top: 20%;
   z-index: 1;
-  text-align: center;
   margin-left: auto;
   margin-right: auto;
   letter-spacing: 4px;
+  font-size: 5rem;
+  line-height: 4rem;
+  color: #fc037f;
 }
