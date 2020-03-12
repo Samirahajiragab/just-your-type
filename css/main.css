@@ -27,7 +27,7 @@ h2 {
 .secondfont {
   left: 0;
   right: 0;
-  top: 3%;
+  top: 2%;
   z-index: 1;
   text-align: center;
   letter-spacing: 4px;
@@ -47,12 +47,12 @@ h2 {
     0 20px 20px rgba(0, 0, 0, .15);
 }
 
-@media only screen and (min-width: 3em) {
+@media only screen and (min-width: 38em) {
 
   .secondfont {
     left: 0;
     right: 0;
-    top: 8%;
+    top: 7%;
   }
 
 }
